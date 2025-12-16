@@ -44,10 +44,34 @@
     "2025-10-08",
     "2025-10-09",
     "2025-10-11",
-    "2025-10-18"
+    "2025-10-18",
+    "2025-10-19",
+    "2025-10-20",
+    "2025-10-21",
+    "2025-10-22",
+    "2025-10-23",
+    "2025-10-24",
+    "2025-10-26",
+    "2025-10-27",
+    "2025-10-28",
+    "2025-10-29",
+    "2025-10-30",
+    "2025-10-31",
+    "2025-11-01",
+    "2025-11-05",
+    "2025-11-07",
+    "2025-11-08",
+    "2025-11-09",
+    "2025-12-06",
+    "2025-12-14"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-14T08:00:00.000Z",
+    "start": "2025-12-14T00:00:00.000Z",
+    "end": "2025-12-14T00:00:00.000Z",
+    "ttl": 1765847932
   },
   "longest_daily_streak": {
     "duration": 14,
@@ -57,19 +81,48 @@
     "end": "2025-08-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-12-14T08:00:00.000Z",
+    "start": "2025-12-14T00:00:00.000Z",
+    "end": "2025-12-14T00:00:00.000Z",
+    "ttl": 1765847932
   },
   "longest_weekly_streak": {
-    "duration": 5,
+    "duration": 8,
     "readingMarketplace": 1,
-    "utcEndTime": "2025-09-12T07:00:00.000Z",
-    "start": "2025-08-10T00:00:00.000Z",
-    "end": "2025-09-12T00:00:00.000Z"
+    "utcEndTime": "2025-11-09T08:00:00.000Z",
+    "start": "2025-09-21T00:00:00.000Z",
+    "end": "2025-11-09T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "F30B44C04E254698A6B2A3602E7F0755",
+        "read_event_id": "ef2726df-01be-47f1-9e94-c608bd9c406f",
+        "date_read": "2025-11-07T21:30:28-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "A94C4FFB49D84873B084BE6E32E0CF8A",
+        "read_event_id": "d7aa2b11-6a26-4410-8eb7-0b3906de057b",
+        "date_read": "2025-10-29T20:05:07-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "AB17819E0DBD4968B81A6945947B4013",
+        "read_event_id": "0c9538b1-faf4-4ea4-af80-a763d93cf17b",
+        "date_read": "2025-10-06T02:04:43-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "A3204341003644D2B4F3AD0B9A41F01C",
         "read_event_id": "1f1fff8d-e483-400c-929d-09811894a35b",
@@ -157,16 +210,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 17,
+    "daysLeftInCurrentChallenge": 16,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 3,
+    "totalEarnedAchievements": 5,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PumpkinPrime_b775870f-ea09-4b90-990b-5673c2c703ad.png",
-        "quantity": 1,
-        "title": "Pumpkin Prime",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_HeadStart_09b4f501-d681-35c1-a3b9-5daf29329383.png",
+        "quantity": 2,
+        "title": "Head Start",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_GoldReader_d1885062-9926-390f-bc57-5e95018fe6ea.png",
@@ -183,11 +236,11 @@
         "hasLevel": false
       },
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_Bibliophile_e8c40f32-b610-30b0-8b5f-dcdf49566089.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2025FallChallenge_PerfectMonth_cf56a3c0-9331-3abf-950e-46d7ac1e8967.png",
         "quantity": 0,
-        "title": "Bibliophile",
+        "title": "Perfect Month",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
+        "hasLevel": true
       }
     ]
   }
