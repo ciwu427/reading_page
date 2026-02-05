@@ -78,10 +78,18 @@
     "2026-01-22",
     "2026-01-26",
     "2026-01-28",
-    "2026-01-29"
+    "2026-01-29",
+    "2026-01-30",
+    "2026-02-02",
+    "2026-02-03"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-03T08:00:00.000Z",
+    "start": "2026-02-02T00:00:00.000Z",
+    "end": "2026-02-03T00:00:00.000Z",
+    "ttl": 1770255903
   },
   "longest_daily_streak": {
     "duration": 14,
@@ -91,12 +99,12 @@
     "end": "2025-08-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 4,
+    "duration": 5,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-01-29T08:00:00.000Z",
+    "utcEndTime": "2026-02-03T08:00:00.000Z",
     "start": "2026-01-09T00:00:00.000Z",
-    "end": "2026-01-29T00:00:00.000Z",
-    "ttl": 1770169424
+    "end": "2026-02-03T00:00:00.000Z",
+    "ttl": 1770255903
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -220,16 +228,16 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 56,
+    "daysLeftInCurrentChallenge": 55,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 1,
+    "totalEarnedAchievements": 2,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_HeadStart_896ce0f2-38a8-30c7-b3ac-0715b1a782ba.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ReadersDozen_49b2b7ea-eab2-4f91-9897-9ef7482f87d9.png",
         "quantity": 1,
-        "title": "Head Start",
+        "title": "Reader's Dozen",
         "isUnrevealedMysteryAchievement": false,
-        "hasLevel": true
+        "hasLevel": false
       },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_GoldReader_b382f6a0-5c4b-382c-95dd-6b9b05732870.png",
