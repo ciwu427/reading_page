@@ -81,10 +81,21 @@
     "2026-01-29",
     "2026-01-30",
     "2026-02-02",
-    "2026-02-03"
+    "2026-02-03",
+    "2026-02-04",
+    "2026-02-05",
+    "2026-02-06",
+    "2026-02-09",
+    "2026-02-12",
+    "2026-02-13"
   ],
   "current_daily_streak": {
-    "duration": 0
+    "duration": 2,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-02-13T08:00:00.000Z",
+    "start": "2026-02-12T00:00:00.000Z",
+    "end": "2026-02-13T00:00:00.000Z",
+    "ttl": 1771033453
   },
   "longest_daily_streak": {
     "duration": 14,
@@ -94,12 +105,12 @@
     "end": "2025-08-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 5,
+    "duration": 6,
     "readingMarketplace": 1,
-    "utcEndTime": "2026-02-03T08:00:00.000Z",
+    "utcEndTime": "2026-02-13T08:00:00.000Z",
     "start": "2026-01-09T00:00:00.000Z",
-    "end": "2026-02-03T00:00:00.000Z",
-    "ttl": 1770947621
+    "end": "2026-02-13T00:00:00.000Z",
+    "ttl": 1771033453
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -108,7 +119,7 @@
     "start": "2025-09-21T00:00:00.000Z",
     "end": "2025-11-09T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "at_risk",
+  "current_weekly_streak_state": "approaching_record_streak",
   "goal_info": {
     "goals": {},
     "titles_read": [
@@ -223,14 +234,14 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T2",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 47,
+    "daysLeftInCurrentChallenge": 46,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 2,
+    "totalEarnedAchievements": 4,
     "achievementsDisplayAttributes": [
       {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ReadersDozen_49b2b7ea-eab2-4f91-9897-9ef7482f87d9.png",
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/1KindleAchievements2026WinterChallenge_ChampionReader_ff6be9ab-28d1-413c-a7ff-d07f314e8c4d.png",
         "quantity": 1,
-        "title": "Reader's Dozen",
+        "title": "Champion Reader",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       },
