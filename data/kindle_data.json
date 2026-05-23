@@ -90,7 +90,21 @@
     "2026-02-13",
     "2026-02-14",
     "2026-02-15",
-    "2026-02-16"
+    "2026-02-16",
+    "2026-03-10",
+    "2026-03-13",
+    "2026-03-26",
+    "2026-03-27",
+    "2026-03-29",
+    "2026-04-10",
+    "2026-04-13",
+    "2026-04-19",
+    "2026-04-20",
+    "2026-04-22",
+    "2026-04-24",
+    "2026-04-25",
+    "2026-05-07",
+    "2026-05-20"
   ],
   "current_daily_streak": {
     "duration": 0
@@ -103,7 +117,12 @@
     "end": "2025-08-23T00:00:00.000Z"
   },
   "current_weekly_streak": {
-    "duration": 0
+    "duration": 1,
+    "readingMarketplace": 1,
+    "utcEndTime": "2026-05-20T07:00:00.000Z",
+    "start": "2026-05-20T00:00:00.000Z",
+    "end": "2026-05-20T00:00:00.000Z",
+    "ttl": 1779503810
   },
   "longest_weekly_streak": {
     "duration": 8,
@@ -112,10 +131,18 @@
     "start": "2025-09-21T00:00:00.000Z",
     "end": "2025-11-09T00:00:00.000Z"
   },
-  "current_weekly_streak_state": "inactive",
+  "current_weekly_streak_state": "active",
   "goal_info": {
     "goals": {},
     "titles_read": [
+      {
+        "asin": "6C026399008346979C232EFB16C98360",
+        "read_event_id": "6a56a5ca-c6f2-4279-b4d8-9f1024bae684",
+        "date_read": "2026-03-10T04:37:14-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
       {
         "asin": "F30B44C04E254698A6B2A3602E7F0755",
         "read_event_id": "ef2726df-01be-47f1-9e94-c608bd9c406f",
@@ -227,10 +254,17 @@
   "urcGatingWeblabTreatment": "T1",
   "kindleHomeStreaksCardRevampTreatment": "T1",
   "achievements_data": {
-    "daysLeftInCurrentChallenge": 40,
+    "daysLeftInCurrentChallenge": 39,
     "totalAvailableAchievements": 15,
-    "totalEarnedAchievements": 0,
+    "totalEarnedAchievements": 1,
     "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_HeadStart_edfab7da-b953-33cf-a0fe-d3e6dacedd38.png",
+        "quantity": 1,
+        "title": "Head Start",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": true
+      },
       {
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_GoldReader_d3173512-7315-3369-8a11-06f88d6fa347.png",
         "quantity": 0,
@@ -249,13 +283,6 @@
         "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bookish_924d3337-4102-38dc-a68f-59fe9a7b90a3.png",
         "quantity": 0,
         "title": "Bookish",
-        "isUnrevealedMysteryAchievement": false,
-        "hasLevel": false
-      },
-      {
-        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SpringChallenge_Bibliophile_754718fd-17d2-36d8-a297-d41208e9325a.png",
-        "quantity": 0,
-        "title": "Bibliophile",
         "isUnrevealedMysteryAchievement": false,
         "hasLevel": false
       }
