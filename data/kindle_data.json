@@ -114,5 +114,189 @@
     "2026-07-15",
     "2026-07-17",
     "2026-07-18"
-  ]
+  ],
+  "current_daily_streak": {
+    "duration": 0
+  },
+  "longest_daily_streak": {
+    "duration": 14,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-08-23T07:00:00.000Z",
+    "start": "2025-08-10T00:00:00.000Z",
+    "end": "2025-08-23T00:00:00.000Z"
+  },
+  "current_weekly_streak": {
+    "duration": 0
+  },
+  "longest_weekly_streak": {
+    "duration": 8,
+    "readingMarketplace": 1,
+    "utcEndTime": "2025-11-09T08:00:00.000Z",
+    "start": "2025-09-21T00:00:00.000Z",
+    "end": "2025-11-09T00:00:00.000Z"
+  },
+  "current_weekly_streak_state": "inactive",
+  "goal_info": {
+    "goals": {},
+    "titles_read": [
+      {
+        "asin": "30F44CF81EF94BF7974778ADD3DC7B09",
+        "read_event_id": "1f52e320-23a3-4a40-9bf1-113b565ae592",
+        "date_read": "2026-07-12T00:35:08-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "6C026399008346979C232EFB16C98360",
+        "read_event_id": "6a56a5ca-c6f2-4279-b4d8-9f1024bae684",
+        "date_read": "2026-03-10T04:37:14-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "F30B44C04E254698A6B2A3602E7F0755",
+        "read_event_id": "ef2726df-01be-47f1-9e94-c608bd9c406f",
+        "date_read": "2025-11-07T21:30:28-08:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "A94C4FFB49D84873B084BE6E32E0CF8A",
+        "read_event_id": "d7aa2b11-6a26-4410-8eb7-0b3906de057b",
+        "date_read": "2025-10-29T20:05:07-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "AB17819E0DBD4968B81A6945947B4013",
+        "read_event_id": "0c9538b1-faf4-4ea4-af80-a763d93cf17b",
+        "date_read": "2025-10-06T02:04:43-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "A3204341003644D2B4F3AD0B9A41F01C",
+        "read_event_id": "1f1fff8d-e483-400c-929d-09811894a35b",
+        "date_read": "2025-10-04T09:30:00-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "04A731B482A442058F4F3CCB0F5FCC1B",
+        "read_event_id": "88ff11a6-176b-4b79-bf4d-faa2c80aaa31",
+        "date_read": "2025-08-17T18:54:03-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "9D01BF53501D42D7A6679EB765E4BB18",
+        "read_event_id": "00b1fd1b-3b51-479b-b012-1e8669351b30",
+        "date_read": "2025-08-12T05:43:37-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "54536C555D2F4036A421CDD73FAE0C1E",
+        "read_event_id": "6d70486a-fdbb-470d-bedc-fa11ca14945e",
+        "date_read": "2025-08-12T01:34:49-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "1760F1AEB4444AE4865A6CD6F3D88E60",
+        "read_event_id": "c6049086-814a-4e53-8be4-bcab60be9d84",
+        "date_read": "2025-08-10T07:49:51-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "14860B95E4BC4566BC220D346366C3D9",
+        "read_event_id": "5ba8a3f7-09f0-44ae-980f-58809a23bd95",
+        "date_read": "2025-08-10T07:19:39-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "CD8E2A66CB5944A6905C65838E38C1C4",
+        "read_event_id": "83ea4d8c-1f45-4614-bfb4-3ca7b8091031",
+        "date_read": "2025-08-10T06:34:25-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "89B171AAE31341869AB4B9BEAC33E627",
+        "read_event_id": "4e65dc78-8397-4667-af06-64a41d450bf4",
+        "date_read": "2025-08-10T06:33:55-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "74B470B7A2B247099DAF9EC5C3908C35",
+        "read_event_id": "d780a304-bf1e-4f7d-a2a0-6e0c5490ad00",
+        "date_read": "2025-08-10T06:32:52-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      },
+      {
+        "asin": "0AD3366D639B420E87F599525B4E07FE",
+        "read_event_id": "f9ce8913-3026-463a-841e-2ab8afe791c3",
+        "date_read": "2025-08-10T06:31:49-07:00",
+        "content_type": "PDOC",
+        "source_origin": "KINDLE",
+        "book_uri": "UNKNOWN"
+      }
+    ],
+    "is_backfill_completed": true
+  },
+  "preferences": null,
+  "urcGatingWeblabTreatment": "T1",
+  "achievements_data": {
+    "daysLeftInCurrentChallenge": 30,
+    "totalAvailableAchievements": 15,
+    "totalEarnedAchievements": 3,
+    "achievementsDisplayAttributes": [
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_DogDiaries_4099e082-dcb2-3703-98d3-4aa7824f8f5c.png",
+        "quantity": 1,
+        "title": "Dog Days",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_GoldReader_f344ca0c-6289-329d-8040-e8a25d58886e.png",
+        "quantity": 0,
+        "title": "Gold Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_SilverReader_79be1896-990f-3a1c-8f7d-a79d287b373d.png",
+        "quantity": 0,
+        "title": "Silver Reader",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      },
+      {
+        "imageUrl": "https://m.media-amazon.com/images/G/01/RC/KindleAchievements2026SummerChallenge_Bibliophile_e5f8b615-4174-376a-8942-e5284518e814.png",
+        "quantity": 0,
+        "title": "Bibliophile",
+        "isUnrevealedMysteryAchievement": false,
+        "hasLevel": false
+      }
+    ]
+  }
 }
